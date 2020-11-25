@@ -1,7 +1,6 @@
 # About the project
 
-This app provides a set of tools that can be used to manage payrolls for employees. Using the app a user can create a list of employees that can be saved to a file, and retreive the list from the file using a separate form included within the app
-a basic representation of a bank account and its services for an individual. Users can open three different types of accounts, make withdrawals, transfers, deposits, etc. 
+This app provides a set of tools that can be used to manage payrolls for employees. Using the app a user can create a list of employees that can be saved to a file,  retreive the list from the file and ultimately generate a payment for an employee using a separate form included within the app. 
 
 ## Getting Started
 
